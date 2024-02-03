@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../LitmusServices/new-litmus"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../LitmusServices/admin/litmus-api"
+		},
+		{
+			"path": "../../../LitmusServices/admin"
+		}
+	],
+	"settings": {}
+}
